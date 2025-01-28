@@ -5,7 +5,7 @@ This comprehensive Hospital Management System is a Java-based desktop applicatio
 
 ### Project Contributors
 This project was developed collaboratively by:
-- Ulaş Demir
+- Ulaş Demir https://github.com/Ulashh1
 - Emirhan Akdeniz [@emirhan35s](https://github.com/emirhan35s)
 
 ## Application Screenshots
